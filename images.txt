@@ -6,3 +6,8 @@ kasmweb/nginx:1.25.3
 haroldli/xiaoya-tvbox
 haroldli/xiaoya-tvbox:native
 xiaoyaliu/alist
+haroldli/xiaoya-tvbox:native-host
+haroldli/xiaoya-tvbox:hostmode
+haroldli/xiaoya-tvbox:hostmode-dev
+haroldli/xiaoya-tvbox:dev
+haroldli/xiaoya-tvbox:native-dev
