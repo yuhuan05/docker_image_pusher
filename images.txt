@@ -6,4 +6,3 @@ kasmweb/nginx:1.25.3
 haroldli/xiaoya-tvbox
 haroldli/xiaoya-tvbox:native
 xiaoyaliu/alist
-nextcloud
