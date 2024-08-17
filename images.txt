@@ -12,4 +12,4 @@ haroldli/xiaoya-tvbox:hostmode-dev
 haroldli/xiaoya-tvbox:dev
 haroldli/xiaoya-tvbox:native-dev
 stilleshan/frps
-linkease/desktop-ubuntu-standard-arm64:latest
+
