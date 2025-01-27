@@ -10,3 +10,4 @@ haroldli/xiaoya-tvbox:hostmode-dev
 haroldli/xiaoya-tvbox:dev
 haroldli/xiaoya-tvbox:native-dev
 stilleshan/frps
+doubebly/doube-itv:latest
