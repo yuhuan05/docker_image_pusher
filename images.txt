@@ -7,3 +7,4 @@ haroldli/xiaoya-tvbox:hostmode
 haroldli/xiaoya-tvbox:hostmode-dev
 haroldli/xiaoya-tvbox:dev
 haroldli/xiaoya-tvbox:native-dev
+rustdesk/rustdesk-server
