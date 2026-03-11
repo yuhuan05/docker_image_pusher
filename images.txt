@@ -7,3 +7,4 @@ haroldli/xiaoya-tvbox:hostmode-dev
 haroldli/xiaoya-tvbox:dev
 haroldli/xiaoya-tvbox:native-dev
 stirlingtools/stirling-pdf
+snipe/snipe-it:latest
