@@ -9,3 +9,4 @@ haroldli/xiaoya-tvbox:native-dev
 stirlingtools/stirling-pdf
 snipe/snipe-it:latest
 xhofe/alist:latest
+ghcr.io/wg-easy/wg-easy
